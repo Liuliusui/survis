@@ -1,17 +1,88 @@
 ﻿const generatedBibEntries = {
-    "Beck2016Visual": {
-        "abstract": "Bibiographic data such as collections of scientific articles and citation networks have been studied extensively in information visualization and visual analytics research. Powerful systems have been built to support various types of bibliographic analysis, but they require some training and cannot be used to disseminate the insights gained. In contrast, we focused on developing a more accessible visual analytics system, called SurVis, that is ready to disseminate a carefully surveyed literature collection. The authors of a survey may use our Web-based system to structure and analyze their literature database. Later, readers of the survey can obtain an overview, quickly retrieve specific publications, and reproduce or extend the original bibliographic analysis. Our system employs a set of selectors that enable users to filter and browse the literature collection as well as to control interactive visualizations. The versatile selector concept includes selectors for textual search, filtering by keywords and meta-information, selection and clustering of similar publications, and following citation links. Agreement to the selector is represented by word-sized sparkline visualizations seamlessly integrated into the user interface. Based on an analysis of the analytical reasoning process, we derived requirements for the system. We developed the system in a formative way involving other researchers writing literature surveys. A questionnaire study with 14 visual analytics experts confirms that SurVis meets the initially formulated requirements.",
-        "author": "Beck, Fabian and Koch, Sebastian and Weiskopf, Daniel",
-        "doi": "10.1109/TVCG.2015.2467757",
-        "journal": "IEEE Transactions on Visualization and Computer Graphics",
-        "keywords": "type:system, visual_analytics, sparklines, information_retrieval, clustering, literature_browser",
-        "number": "01",
-        "publisher": "IEEE",
-        "series": "TVCG",
-        "title": "Visual Analysis and Dissemination of Scientific Literature Collections with {SurVis}",
+    "bai2023analytics": {
+        "author": "Bai, Ruibin and Chen, Zhi-Long and Kendall, Graham",
+        "journal": "International Journal of Production Research",
+        "number": "1",
+        "pages": "1--3",
+        "publisher": "Taylor \\& Francis",
+        "title": "Analytics and machine learning in scheduling and routing research",
+        "type": "misc",
+        "volume": "61",
+        "year": "2023"
+    },
+    "chen2020data": {
+        "author": "Chen, Xinan and Bai, Ruibin and Qu, Rong and Dong, Haibo and Chen, Jianjun",
+        "booktitle": "2020 IEEE congress on evolutionary computation (CEC)",
+        "organization": "Ieee",
+        "pages": "1--8",
+        "title": "A data-driven genetic programming heuristic for real-world dynamic seaport container terminal truck dispatching",
+        "type": "inproceedings",
+        "year": "2020"
+    },
+    "ghiani2024integrating": {
+        "author": "Ghiani, Gianpaolo and Solazzo, Gianluca and Elia, Gianluca and others",
+        "journal": "Algorithms",
+        "title": "Integrating Large Language Models and Optimization in Semi-Structured Decision Making: Methodology and a Case Study",
         "type": "article",
-        "url": "http://www.visus.uni-stuttgart.de/uploads/tx_vispublications/vast15-survis.pdf",
-        "volume": "22",
-        "year": "2016"
+        "volume": "17",
+        "year": "2024"
+    },
+    "huang2024can": {
+        "author": "Huang, Zhehui and Shi, Guangyao and Sukhatme, Gaurav S",
+        "journal": "arXiv preprint arXiv:2403.10795",
+        "title": "Can Large Language Models Solve Robot Routing?",
+        "type": "article",
+        "year": "2024"
+    },
+    "liu2023algorithm": {
+        "author": "Liu, Fei and Tong, Xialiang and Yuan, Mingxuan and Zhang, Qingfu",
+        "journal": "arXiv preprint arXiv:2311.15249",
+        "title": "Algorithm evolution using large language model",
+        "type": "article",
+        "year": "2023"
+    },
+    "liu2024evolution": {
+        "author": "Liu, Fei and Tong, Xialiang and Yuan, Mingxuan and Lin, Xi and Luo, Fu and Wang, Zhenkun and Lu, Zhichao and Zhang, Qingfu",
+        "journal": "arXiv preprint arXiv:2401.02051",
+        "title": "Evolution of heuristics: Towards efficient automatic algorithm design using large language model",
+        "type": "article",
+        "year": "2024"
+    },
+    "liu2024llm4ad": {
+        "author": "Liu, Fei and Zhang, Rui and Xie, Zhuoliang and Sun, Rui and Li, Kai and Lin, Xi and Wang, Zhenkun and Lu, Zhichao and Zhang, Qingfu",
+        "journal": "arXiv preprint arXiv:2412.17287",
+        "title": "Llm4ad: A platform for algorithm design with large language model",
+        "type": "article",
+        "year": "2024"
+    },
+    "romera2024mathematical": {
+        "author": "Romera-Paredes, Bernardino and Barekatain, Mohammadamin and Novikov, Alexander and Balog, Matej and Kumar, M Pawan and Dupont, Emilien and Ruiz, Francisco JR and Ellenberg, Jordan S and Wang, Pengming and Fawzi, Omar and others",
+        "journal": "Nature",
+        "number": "7995",
+        "pages": "468--475",
+        "publisher": "Nature Publishing Group UK London",
+        "title": "Mathematical discoveries from program search with large language models",
+        "type": "article",
+        "volume": "625",
+        "year": "2024"
+    },
+    "yao2025multi": {
+        "author": "Yao, Shunyu and Liu, Fei and Lin, Xi and Lu, Zhichao and Wang, Zhenkun and Zhang, Qingfu",
+        "booktitle": "Proceedings of the AAAI Conference on Artificial Intelligence",
+        "number": "25",
+        "pages": "27144--27152",
+        "title": "Multi-objective evolution of heuristic using large language model",
+        "type": "inproceedings",
+        "volume": "39",
+        "year": "2025"
+    },
+    "zhang2024understanding": {
+        "author": "Zhang, Rui and Liu, Fei and Lin, Xi and Wang, Zhenkun and Lu, Zhichao and Zhang, Qingfu",
+        "booktitle": "International Conference on Parallel Problem Solving from Nature",
+        "organization": "Springer",
+        "pages": "185--202",
+        "title": "Understanding the importance of evolutionary search in automated heuristic design with large language models",
+        "type": "inproceedings",
+        "year": "2024"
     }
 };
