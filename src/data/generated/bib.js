@@ -29,6 +29,18 @@
         "volume": "17",
         "year": "2024"
     },
+    "ghimire2025one": {
+        "author": "Ghimire, Bishad and Mahmood, Ausif and Elleithy, Khaled",
+        "journal": "AI",
+        "keywords": "type:Combinatorial Optimization, Large Language Model, Autoregressive Generation, Learning Algorithms, AI",
+        "number": "4",
+        "pages": "66",
+        "publisher": "MDPI",
+        "title": "One-shot Autoregressive Generation of Combinatorial Optimization Solutions based on the Large Language Model Architecture and Learning Algorithms",
+        "type": "article",
+        "volume": "6",
+        "year": "2025"
+    },
     "huang2024can": {
         "author": "Huang, Zhehui and Shi, Guangyao and Sukhatme, Gaurav S",
         "journal": "arXiv preprint arXiv:2403.10795",
@@ -59,18 +71,6 @@
         "keywords": "type:Algorithm Design, Large Language Model, Optimization, AI",
         "title": "Llm4ad: A platform for algorithm design with large language model",
         "type": "article",
-        "year": "2024"
-    },
-    "romera2024mathematical": {
-        "author": "Romera-Paredes, Bernardino and Barekatain, Mohammadamin and Novikov, Alexander and Balog, Matej and Kumar, M Pawan and Dupont, Emilien and Ruiz, Francisco JR and Ellenberg, Jordan S and Wang, Pengming and Fawzi, Omar and others",
-        "journal": "Nature",
-        "keywords": "type:Large Language Models, Program Search, Mathematical Discoveries, AI",
-        "number": "7995",
-        "pages": "468--475",
-        "publisher": "Nature Publishing Group UK London",
-        "title": "Mathematical discoveries from program search with large language models",
-        "type": "article",
-        "volume": "625",
         "year": "2024"
     },
     "yao2025multi": {
